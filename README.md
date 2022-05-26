@@ -1,12 +1,13 @@
-# Utilize the Array Find Methods for JavaScript
+# Array Iterator Methods for JavaScript
 
-Array Iterator, also known as "iterators" and "iterator methods," allows us to iterate through arrays to manipulate elements and return some values. In this case, we will focus on the Array Find Method, which utilizes find() to isolate precise outcomes. 
+Array Iterator, also known as "iterators" and "iterator methods," allows us to iterate through arrays to manipulate elements and return some values. 
 
-find() executes the callback function for each element in the array until the callback returns a truthy value, which instantly returns the elements and stops searching.
+indexOf() the index of the first condition of the element; otherwise -1 if element does not exist - similar to find() </br> 
+find() will value the first/single condition of the element; otherwise, return undefined if not a truthy value if it does not exist - similar to indexOf() </br> 
+filter() find then returns a list of elements, a new array that first meets the condition </br> 
+map() adjust each element and return modified array </br> 
+reduce() create a summary or accumulation of a single value in an array </br> 
 
-Method Name: find 
-Returns: Value of first circumstance of the element
-         Element doesn't exist, not a truthy value/Boolean context: undefined
 
 ## Installation
 
@@ -14,22 +15,27 @@ None.
 
 ## Usage
 
-Using Arrow Function with find() to destruct 
-
 // Small Meal Kit Delivery Food Company Inventory 
 
-const inventory = [ </br>
-  {name: 'Salmon', quantity: 100}, </br>
-  {name: 'Ground Beef', quantity: 95}, </br>
-  {name: 'Pork Chops', quantity: 120}, </br>
-  {name: 'Chicken Breast', quantity: 200}, </br>
-  {name: 'Steak', quantity: 150}, </br>
-  {name: 'Beyond Meat Burger', quantity: 250} </br>
+indexOf()
+![image](https://user-images.githubusercontent.com/91996681/170418314-ed346e47-1fd3-4e47-ab07-615f90b22abc.png)
 
-]; </br>
 
-const result = inventory.find(({name}) => name === 'Chicken Breast'); </br>
-console.log(result) // {name: 'Chicken Breast', quantity: 200} </br>
+find()
+![image](https://user-images.githubusercontent.com/91996681/170417824-92b6a73c-2c66-4008-9ac0-761e65247596.png)
+
+filter()
+![image](https://user-images.githubusercontent.com/91996681/170418656-a7df90f4-cc9d-44c9-b3c9-28d337ee1579.png)
+
+
+map()
+![image](https://user-images.githubusercontent.com/91996681/170418873-0959522a-ab13-499d-b2ce-d811f15b605d.png)
+
+
+reduce()
+![image](https://user-images.githubusercontent.com/91996681/170419160-4c46eab0-2eda-4138-a6cb-bf7e5c4b64e5.png)
+
+
 
 ## 
 
