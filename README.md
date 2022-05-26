@@ -39,7 +39,7 @@ reduce()
 
 ## 
 
-You have learned how a small fraction of how to use the find() method in JavaScript array to search for the first occurrence of an element that helps a test.
+You have learned how a small fraction of how to use the indexOf(), find(), filter(), map(), reduce() method in JavaScript array to search for the first occurrence of an element that helps a test.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
