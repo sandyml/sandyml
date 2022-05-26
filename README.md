@@ -18,18 +18,18 @@ Using Arrow Function with find() to destruct
 
 // Small Meal Kit Delivery Food Company Inventory 
 
-const inventory = [
-  {name: 'Salmon', quantity: 100},
-  {name: 'Ground Beef', quantity: 95},
-  {name: 'Pork Chops', quantity: 120},
-  {name: 'Chicken Breast', quantity: 200},
-  {name: 'Steak', quantity: 150},
-  {name: 'Beyond Meat Burger', quantity: 250}
+const inventory = [ </br>
+  {name: 'Salmon', quantity: 100}, </br>
+  {name: 'Ground Beef', quantity: 95}, </br>
+  {name: 'Pork Chops', quantity: 120}, </br>
+  {name: 'Chicken Breast', quantity: 200}, </br>
+  {name: 'Steak', quantity: 150}, </br>
+  {name: 'Beyond Meat Burger', quantity: 250} </br>
 
-];
+]; </br>
 
-const result = inventory.find(({name}) => name === 'Chicken Breast');
-console.log(result) /// {name: 'Chicken Breast', quantity: 200}
+const result = inventory.find(({name}) => name === 'Chicken Breast'); </br>
+console.log(result) // {name: 'Chicken Breast', quantity: 200} </br>
 
 ## 
 
