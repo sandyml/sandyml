@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sandra Yun</h1>
+<h1 align="center">Hi, I'm Sandra Yun</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 <hr/>
 I am passionate about involving my creative and analytical crafts (my background was previously in the dental industry and hospitality, taking on heavy complex tasks) to construct and design high-quality applications and instruments to assist others in achieving their goals/aspirations.
