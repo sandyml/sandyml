@@ -17,4 +17,5 @@ I am passionate about involving my creative and analytical crafts (my background
 <a href="https://medium.com/sandy_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sandy_tech" height="30" width="40" /></a>
 </p>
 
+
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sandy-tech) -->
