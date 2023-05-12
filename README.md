@@ -7,9 +7,9 @@ Checkout <a href="https://sandyml.github.io/sandrayun/" target="blank">My Portfo
 
 <h3>What I am currenly doing: </h3>
 Working on a messenger chat utilizing Web Sockets - called 'SAY-MY-AIM'<br/>
-Learning Python and TypScript
+Learning Python and TypeScript
 
-
+<br/>
 If you're interested - <a href="mailto:sandramayla@gmail.com, sandrayun.tech@gmail.com?subject=We want to work with you!" target="blank">contact me!</a>
 
 <hr/>
