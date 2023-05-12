@@ -11,7 +11,7 @@ Working on a messenger chat utilizing Web Sockets - called 'SAY-MY-AIM'<br/>
 Currently learning ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) and ![TypeScript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
 <br/>
 
-If you're interested - <a href="mailto:sandramayla@gmail.com, sandrayun.tech@gmail.com?subject=We want to work with you!" target="blank">contact me!</a>
+If you're interested - <a href="mailto:sandramayla@gmail.com, sandrayun.tech@gmail.com?subject=We want to work with you!" target="blank">contact me</a>!
 
 <hr/>
 
