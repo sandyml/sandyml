@@ -3,7 +3,9 @@
 <hr/>
 I am passionate about involving my creative and analytical crafts (my background was previously in the dental industry and hospitality, taking on heavy complex tasks) to construct and design high-quality applications and instruments to assist others in achieving their goals/aspirations.<hr/>
 
-Checkout <a href="https://sandyml.github.io/sandrayun/" target="blank">My Portfolio</a>
+<!-- Checkout <a href="https://sandyml.github.io/sandrayun/" target="blank">My Portfolio</a> -->
+Checkout my <a href="https://sandyml.github.io/sandrayun/" target="blank">![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=my&logoColor=white)</a>
+
 
 <h3>What I am currenly doing: </h3>
 Working on a messenger chat utilizing Web Sockets - called 'SAY-MY-AIM'<br/>
