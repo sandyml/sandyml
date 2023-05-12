@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Sandra Yun</h1>
-<h3 align="center">Full Stack Software Engineer</h3>
+<h4 align="center">Full Stack Software Engineer</h4>
 <hr/>
-I am passionate about involving my creative and analytical crafts (my background was previously in the dental industry and hospitality, taking on heavy complex tasks) to construct and design high-quality applications and instruments to assist others in achieving their goals/aspirations.<hr/>
+I am passionate about applying my creative and analytical crafts (my background was previously in the dental industry and hospitality, taking on heavy complex tasks) to create and design high-quality applications and instruments to assist others in achieving their goals/aspirations.
+<hr/>
 
 <!-- Checkout <a href="https://sandyml.github.io/sandrayun/" target="blank">My Portfolio</a> -->
 Checkout my <a href="https://sandyml.github.io/sandrayun/" target="blank">![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=my&logoColor=white)</a>
