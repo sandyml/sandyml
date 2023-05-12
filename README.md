@@ -8,7 +8,7 @@ Checkout <a href="https://sandyml.github.io/sandrayun/" target="blank">My Portfo
 <h3>What I am currenly doing: </h3>
 Working on a messenger chat utilizing Web Sockets - called 'SAY-MY-AIM'<br/>
 
-Currently learning ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) and ![TypeScript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+Currently learning ![Python](https://img.shields.io/badge/python-blue) and ![TypeScript](https://img.shields.io/badge/typescript-blue)
 <br/>
 
 If you're interested - <a href="mailto:sandramayla@gmail.com, sandrayun.tech@gmail.com?subject=We want to work with you!" target="blank">contact me</a>!
