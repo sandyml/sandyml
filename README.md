@@ -6,7 +6,7 @@ I am passionate about involving my creative and analytical crafts (my background
 Checkout <a href="https://sandyml.github.io/sandrayun/" target="blank">My Portfolio</a>
 
 <h3>What I am currenly doing: </h3>
-Working on a messenger chat utilizing Web Sockets - called 'SAY-MY-AIM'
+Working on a messenger chat utilizing Web Sockets - called 'SAY-MY-AIM'<br/>
 Learning Python and TypScript
 
 
