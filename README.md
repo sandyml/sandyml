@@ -11,7 +11,7 @@ Checkout my <a href="https://sandyml.github.io/sandrayun/" target="blank">![My W
 <h3>What I am currenly doing: </h3>
 💬 Working on a messenger chat utilizing Web Sockets - called 'SAY-MY-AIM'<br/>
 
-👩‍💻💻 Currently learning ![Python](https://img.shields.io/badge/python-blue) and ![TypeScript](https://img.shields.io/badge/typescript-blue)
+👩🏽‍💻💻 Currently learning ![Python](https://img.shields.io/badge/python-blue) and ![TypeScript](https://img.shields.io/badge/typescript-blue)
 <br/>
 
 If you're interested - <a href="mailto:sandramayla@gmail.com, sandrayun.tech@gmail.com?subject=We want to work with you!" target="blank">contact me</a>!
