@@ -4,14 +4,14 @@
 I am passionate about applying my creative and analytical crafts (my background was previously in the dental industry and hospitality, taking on heavy complex tasks) to create and design high-quality applications and instruments to assist others in achieving their goals/aspirations.
 <hr/>
 
-<!-- Checkout <a href="https://sandyml.github.io/sandrayun/" target="blank">My Portfolio</a> -->
-Checkout my <a href="https://sandyml.github.io/sandrayun/" target="blank">![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=my&logoColor=white)</a>
+Checkout my <a href="https://sandyml.github.io/sandrayun/"><img src="https://img.shields.io/badge/Website-black?style=plastic&amp;labelColor=black&amp;logo=Website&amp;link=https://sandyml.github.io/sandrayun/" alt="Website" height="6%" width="6%"></a>
+<!-- <a href="https://sandyml.github.io/sandrayun/" target="blank">![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=my&logoColor=white)</a> -->
 
 
 <h3>What I am currenly doing: </h3>
 💬 Working on a messenger chat utilizing Web Sockets - called 'SAY-MY-AIM'<br/>
 
-👩🏽‍💻💻 Currently learning ![Python](https://img.shields.io/badge/python-blue) and ![TypeScript](https://img.shields.io/badge/typescript-blue)
+👩🏽‍💻 Currently learning ![Python](https://img.shields.io/badge/python-blue) and ![TypeScript](https://img.shields.io/badge/typescript-blue)
 <br/>
 
 If you're interested - <a href="mailto:sandramayla@gmail.com, sandrayun.tech@gmail.com?subject=We want to work with you!" target="blank">contact me</a>!
@@ -24,13 +24,19 @@ If you're interested - <a href="mailto:sandramayla@gmail.com, sandrayun.tech@gma
 <br/>
 
 ![RubyonRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)&nbsp;![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;![Thunk](https://img.shields.io/badge/thunk-%2300f.svg?style=for-the-badge&logo=thunk&logoColor=purple)&nbsp;![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+   
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+ <p>
+   <a href="https://linkedin.com/in/sandramyun"><img src="https://img.shields.io/badge/-Sandra%20Yun%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https:/linkedin.com/in/sandramyun" alt="LinkedIn Badge" height="13%" width="13%"></a> 
+<a href="https://medium.com/sandy_tech"><img src="https://img.shields.io/badge/-Sandra Yun-black?style=plastic&amp;labelColor=black&amp;logo=Medium&amp;link=https://medium.com/sandy_tech" alt="Medium Badge" height="13%" width="13%"></a>
+   </p>
+<!-- <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sandra-yun-aba132272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandra-yun-aba132272/" height="30" width="40" /></a>
 <a href="https://medium.com/sandy_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sandy_tech" height="30" width="40" /></a>
-</p>
+</p> -->
+
+
 
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sandy-tech) -->
