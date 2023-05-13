@@ -4,8 +4,7 @@
 I am passionate about applying my creative and analytical crafts (my background was previously in the dental industry and hospitality, taking on heavy complex tasks) to create and design high-quality applications and instruments to assist others in achieving their goals/aspirations.
 <hr/>
 
-Checkout my <a href="https://sandyml.github.io/sandrayun/"><img src="https://img.shields.io/badge/website-blue?style=plastic&amp;labelColor=blue&amp;logo=website&amp;link=https://sandyml.github.io/sandrayun/" alt="website" height="8%" width="8%"></a>
-<!-- <a href="https://sandyml.github.io/sandrayun/" target="blank">![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=my&logoColor=white)</a> -->
+Checkout my <a href="https://sandyml.github.io/sandrayun/" target="blank">![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=my&logoColor=white)</a>
 
 
 <h3>What I am currenly doing: </h3>
