@@ -1,7 +1,12 @@
 <h1 align="center">Hi, I'm Sandra Yun</h1>
 <h4 align="center">Full Stack Software Engineer</h4>
 <hr/>
-I am passionate about applying my creative and analytical crafts (my background was previously in the dental industry and hospitality, taking on heavy complex tasks) to create and design high-quality applications and instruments to assist others in achieving their goals/aspirations.
+I am passionate about applying my creative and analytical crafts (my background was previously in the dental industry and hospitality, taking on heavy complex tasks) to create and design high-quality applications and instruments to assist others in achieving their goals/aspirations.<br/><br/>
+
+<p>
+ <a href="https://linkedin.com/in/sandramyun"><img src="https://img.shields.io/badge/-Sandra%20Yun%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https:/linkedin.com/in/sandramyun" alt="LinkedIn Badge" height="13%" width="13%"></a> 
+<a href="https://medium.com/sandy_tech"><img src="https://img.shields.io/badge/-Sandra Yun-black?style=plastic&amp;labelColor=black&amp;logo=Medium&amp;link=https://medium.com/sandy_tech" alt="Medium Badge" height="13%" width="13%"></a>
+</p>
 <hr/>
 
 Checkout my <a href="https://sandyml.github.io/sandrayun/" target="blank">![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=my&logoColor=white)</a>
@@ -23,11 +28,11 @@ Checkout my <a href="https://sandyml.github.io/sandrayun/" target="blank">![My W
 ![RubyonRails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)&nbsp;![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)&nbsp;![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;![Thunk](https://img.shields.io/badge/thunk-%2300f.svg?style=for-the-badge&logo=thunk&logoColor=purple)&nbsp;![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
    
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
  <p>
    <a href="https://linkedin.com/in/sandramyun"><img src="https://img.shields.io/badge/-Sandra%20Yun%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https:/linkedin.com/in/sandramyun" alt="LinkedIn Badge" height="13%" width="13%"></a> 
 <a href="https://medium.com/sandy_tech"><img src="https://img.shields.io/badge/-Sandra Yun-black?style=plastic&amp;labelColor=black&amp;logo=Medium&amp;link=https://medium.com/sandy_tech" alt="Medium Badge" height="13%" width="13%"></a>
-   </p>
+   </p> -->
    
 If you're interested - <a href="mailto:sandramayla@gmail.com, sandrayun.tech@gmail.com?subject=We want to work with you!" target="blank">contact me</a>!
 <!-- <p align="left">
