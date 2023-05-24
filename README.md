@@ -11,9 +11,9 @@ I am passionate about applying my creative and analytical crafts (my background 
 <hr/>
 
 <!-- Checkout my <a href="https://sandyml.github.io/sandrayun/" target="blank">![My Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=my&logoColor=white)</a> -->
-
-
 <h3>What I am currenly doing: </h3>
+💬 <s>Working on a messenger chat utilizing Web Sockets - called 'SAY-MY-AIM'</s><br/>
+
 👩🏽‍💻 Currently learning ![Python](https://img.shields.io/badge/python-blue), ![FastAPI](https://img.shields.io/badge/fastapi-blue) and ![TypeScript](https://img.shields.io/badge/typescript-blue)
 <br/>
 
