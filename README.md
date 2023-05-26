@@ -29,4 +29,4 @@ I am passionate about applying my creative and analytical crafts (my background 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)&nbsp;![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)&nbsp;![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;![Thunk](https://img.shields.io/badge/thunk-%2300f.svg?style=for-the-badge&logo=thunk&logoColor=purple)
 
    
-If you're interested - <a href="mailto:sandramayla@gmail.com, sandrayun.tech@gmail.com?subject=We want to work with you!" target="blank">contact me</a>!
+If you're interested - <a href="mailto:sandramayla@gmail.com, sandrayun.tech@gmail.com?subject=We want to work with you!" target="blank"><i><b>contact me</b></i></a>!
