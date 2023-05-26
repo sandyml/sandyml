@@ -12,7 +12,7 @@ I am passionate about applying my creative and analytical crafts (my background 
 <h3 align="center">What I am currenly doing: </h3>
 💬 <s>Working on a messenger chat utilizing Web Sockets - called 'SAY-MY-AIM'</s> ✅ <br/>
 
-👩🏽‍💻 Currently learning ![Python](https://img.shields.io/badge/python-blue), ![FastAPI](https://img.shields.io/badge/fastapi-blue) and ![TypeScript](https://img.shields.io/badge/typescript-blue)
+👩🏽‍💻 📝 Learning ![Python](https://img.shields.io/badge/python-blue), ![FastAPI](https://img.shields.io/badge/fastapi-blue) and ![TypeScript](https://img.shields.io/badge/typescript-blue)
 <br/>
 
 <hr/>
