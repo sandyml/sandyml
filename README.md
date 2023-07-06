@@ -9,7 +9,7 @@ I am passionate about applying my creative and analytical crafts (my background 
 <a href="https://medium.com/sandy_tech"><img src="https://img.shields.io/badge/-Sandra Yun-black?style=plastic&amp;labelColor=black&amp;logo=Medium&amp;link=https://medium.com/sandy_tech" alt="Medium Badge" height="13%" width="13%"></a>
 </p>
 <hr/>
-<h3 align="center">What I am currenly doing: </h3>
+<h3 align="center">What I am currently doing: </h3>
 💬 <s>Working on a messenger chat utilizing Web Sockets - called 'SAY-MY-AIM'</s> ✅ <br/>
 
 👩🏽‍💻 📝 Learning ![Python](https://img.shields.io/badge/python-blue), ![FastAPI](https://img.shields.io/badge/fastapi-blue), ![TypeScript](https://img.shields.io/badge/typescript-blue), and ![AWS](https://img.shields.io/badge/aws-blue)
