@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Sandra Yun</h1>
-<br/>
-<h4 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=33&pause=1000&color=628BF7&width=435&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer" alt="Typing SVG" /></a></h4><hr/>
+
+<h4 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=33&pause=1000&color=BF78F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer" alt="Typing SVG" /></a></h4>
+<hr/>
 I am passionate about applying my creative and analytical crafts (my background was previously in the dental industry and hospitality, taking on heavy complex tasks) to create and design high-quality applications and instruments to assist others in achieving their goals/aspirations.<br/><br/>
 
 <p align="center">
