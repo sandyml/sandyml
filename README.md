@@ -13,7 +13,7 @@ I am passionate about applying my creative and analytical crafts (my background 
 <h3 align="center">What I am currently doing: </h3>
 💬 <s>Working on a messenger chat utilizing Web Sockets - called 'SAY-MY-AIM'</s> ✅ <br/>
 
-👩🏽‍💻 📝 Learning ![Python](https://img.shields.io/badge/python-blue), ![FastAPI](https://img.shields.io/badge/fastapi-blue), ![TypeScript](https://img.shields.io/badge/typescript-blue), and ![AWS](https://img.shields.io/badge/aws-blue)
+👩🏽‍💻 📝 Learning ![FastAPI](https://img.shields.io/badge/fastapi-blue)
 <br/>
 
 <hr/>
@@ -22,7 +22,7 @@ I am passionate about applying my creative and analytical crafts (my background 
  <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ruby,rails,react,javascript,rails,python,java,redux,typescript,nextjs,babel,jest,nodejs,git,postman,fastapi,mysql,postgres,jquery,codepen,devto,replit,materialui,tailwind,css,html" />
+    <img src="https://skillicons.dev/icons?i=vscode,ruby,rails,react,javascript,rails,python,java,redux,typescript,aws,typescript,python,nextjs,babel,jest,nodejs,git,postman,fastapi,mysql,postgres,jquery,codepen,devto,replit,materialui,tailwind,css,html" />
   </a>
 </p>
 
