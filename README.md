@@ -22,7 +22,7 @@ I am passionate about applying my creative and analytical crafts (my background 
  <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,ruby,rails,react,javascript,rails,python,java,redux,typescript,aws,typescript,python,nextjs,babel,jest,nodejs,git,postman,fastapi,mysql,postgres,jquery,codepen,devto,replit,materialui,tailwind,css,html" />
+    <img src="https://skillicons.dev/icons?i=vscode,ruby,rails,react,javascript,rails,python,java,redux,typescript,aws,python,nextjs,babel,jest,nodejs,git,postman,fastapi,mysql,postgres,jquery,codepen,devto,replit,materialui,tailwind,css,html" />
   </a>
 </p>
 
