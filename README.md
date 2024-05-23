@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sandra Yun</h1>
+<h1 align="center">Hi! I'm Sandra Yun!</h1>
 
 <h4 align="center"><a href="https://sandyml.github.io/sandrayun/"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=33&pause=1000&color=BF78F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer" alt="Typing SVG" /></a></h4>
 <hr/>
